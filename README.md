@@ -2,12 +2,6 @@
 In this board, I have designed a weather station based on the ESP32 with sensor of temperature, humidity and photoresistor
 
 
-We've realized an electronic board based on the RP2040.
-This microcontroller has 2 MB of flash memory, providing ample storage space for programs and data. It has 26 digital I/O pins, 3 of which can be used as analog inputs.
-The RP20240 is used for the Raspberry Pico board and is programmable in micro-Python or directly with Arduino Ide.
-We developed the board on Kicad and had it manufactured on jpclb. It costs around 17 euros per board, and is a 2-layer board measuring 2.7cm x 2 cm. You can find the files on our github.
-
-
 <h1> Electronic diagram</h1>
 We'll now take a closer look at how our electronic board works: 
 
