@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 386
+D Adafruit Accessories DHT11 Basic Temp Humidity Sensor
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/DKDS-1/1982.pdf
+$ENDCMP
+#
+#End Doc Library

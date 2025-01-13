@@ -1,0 +1,13 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+BT1,Battery_Panasonic_CR1025-VSK_Vertical_CircularHoles,1,Battery_Cell,
+C1,0402,1,100nf,
+D1,0402,1,LED,
+J1,USB_Micro-B_Amphenol_10103594-0001LF_Horizontal,1,USB_B_Micro,
+J2,microSD_HC_Molex_47219-2001,1,Micro_SD_Card,
+J3,PinHeader_1x03_P1.27mm_Vertical,1,Conn_01x03_Pin,
+R1,PinHeader_2x01_P2.00mm_Vertical,1,R_Photo,
+R2,0402,1,220 ohms,
+U1,SOT-223-3_TabPin2,1,NCP1117-3.3_SOT223,
+U2,XCVR_ESP32-S3-MINI-1-N8,1,ESP32-S3-MINI-1-N8,
+U3,Aosong_DHT11_5.5x12.0_P2.54mm,1,DHT11,
+U4,DIP-8_W7.62mm,1,DS1307+,
