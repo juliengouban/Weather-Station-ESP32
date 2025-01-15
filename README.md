@@ -9,7 +9,7 @@ We'll now take a closer look at how our electronic board works:
 
 ![Alt text](image/schema.png?raw=true "PCB in 3D view")
 
-For powering the circuit, we've used a Micro USB type B connector to supply our board with 5V. As the RP2040 uses 3.3V, we've fitted a regulator to convert 5V to +3.3V: 
+For powering the circuit, we've used a Micro USB type B connector to supply our board with 5V. As the ESP32 uses 3.3V, we've fitted a regulator to convert 5V to +3.3V: 
 
 ![Alt text](image/2.png?raw=true "PCB in 3D view")
 
