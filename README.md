@@ -1,6 +1,8 @@
 # Weather-Station-ESP32
-In this board, I have designed a weather station based on the ESP32 with sensor of temperature, humidity and photoresistor
+In this board, I have designed a weather station based on the ESP32 with sensor of temperature, humidity and photoresistor. 
+The ESP32 is a highly versatile and cost-effective microcontroller, ideal for PCB design due to its powerful dual-core processor, built-in Wi-Fi and Bluetooth, and low power consumption. Its wide range of I/O options and support for various communication protocols make it suitable for many applications, especially in IoT projects. The compact form factor and extensive development support further simplify the design process, allowing for efficient and flexible PCB layouts.
 
+Our board is a two layers designed with Altium Designer.
 
 <h1> Electronic diagram</h1>
 We'll now take a closer look at how our electronic board works: 
