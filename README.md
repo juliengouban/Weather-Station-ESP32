@@ -25,7 +25,7 @@ We use a MicroSD card module to store temperature measurements along with a date
 For the ESP32, we have chosen th ESP32-S3 Mini 1-N8. This is a compact and powerful microcontroller board designed by Espressif. It features the ESP32-S3 chip, which integrates a dual-core processor, Wi-Fi, and Bluetooth capabilities, making it ideal for a wide range of IoT applications. With 8MB of flash memory, this board offers ample storage for firmware and data. The ESP32-S3 Mini 1-N8 is known for its low power consumption, high performance, and rich set of peripherals, including SPI, I2C, UART, and GPIOs, making it a versatile solution for embedded systems and smart device development:
 ![Alt text](image/5.png?raw=true "PCB in 3D view")
 
-Finally, we have the RP2040 microncontroller. It is supplied with 3.3V with decoupling capacitors:
+The DHT11 is a popular digital temperature and humidity sensor. It measures temperature from 0 to 50°C with ±2°C accuracy and humidity from 20 to 80% with ±5% accuracy. The sensor communicates via a single data pin, making it easy to integrate into projects like weather stations and environmental monitoring systems. It offers a good balance of cost and functionality for basic temperature and humidity measurements:
 ![Alt text](image/6.png?raw=true "PCB in 3D view")
 
 ![Alt text](image/7.png?raw=true "PCB in 3D view")
