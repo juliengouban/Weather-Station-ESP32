@@ -22,7 +22,7 @@ We use a MicroSD card module to store temperature measurements along with a date
 ![Alt text](image/4.png?raw=true "PCB in 3D view")
 
 
-We have added a LED to be programmed on GPIO18 to check that our card is working properly: 
+For the ESP32, we have chosen th ESP32-S3 Mini 1-N8. This is a compact and powerful microcontroller board designed by Espressif. It features the ESP32-S3 chip, which integrates a dual-core processor, Wi-Fi, and Bluetooth capabilities, making it ideal for a wide range of IoT applications. With 8MB of flash memory, this board offers ample storage for firmware and data. The ESP32-S3 Mini 1-N8 is known for its low power consumption, high performance, and rich set of peripherals, including SPI, I2C, UART, and GPIOs, making it a versatile solution for embedded systems and smart device development:
 ![Alt text](image/5.png?raw=true "PCB in 3D view")
 
 Finally, we have the RP2040 microncontroller. It is supplied with 3.3V with decoupling capacitors:
