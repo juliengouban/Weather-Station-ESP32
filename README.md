@@ -28,6 +28,7 @@ For the ESP32, we have chosen th ESP32-S3 Mini 1-N8. This is a compact and power
 The DHT11 is a popular digital temperature and humidity sensor. It measures temperature from 0 to 50°C with ±2°C accuracy and humidity from 20 to 80% with ±5% accuracy. The sensor communicates via a single data pin, making it easy to integrate into projects like weather stations and environmental monitoring systems. It offers a good balance of cost and functionality for basic temperature and humidity measurements:
 ![Alt text](image/6.png?raw=true "PCB in 3D view")
 
+Finally we have added a photoresistor, which is a type of resistor whose resistance changes based on the amount of light it receives. In the presence of light, its resistance decreases, allowing more current to flow, while in darkness, its resistance increases, limiting the current:
 ![Alt text](image/7.png?raw=true "PCB in 3D view")
 
 
