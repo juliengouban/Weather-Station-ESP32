@@ -13,11 +13,11 @@ For powering the circuit, we've used a Micro USB type B connector to supply our 
 
 ![Alt text](image/2.png?raw=true "PCB in 3D view")
 
-This is where you'll find the 128-megabit flash memory to store the program. The 2-pin connector allows you to force USB boot:
+We have added a clock module that allows for an accurate time even when our board is powered off. This module is powered by +5V and uses a coin cell battery when the board is off: 
 
 ![Alt text](image/3.png?raw=true "PCB in 3D view")
 
-The 12Mhz crystal provides the clock for our RP2040 microcontroller:
+We use a MicroSD card module to store temperature measurements along with a date and time, allowing us to generate graphs on our web server:
 
 ![Alt text](image/4.png?raw=true "PCB in 3D view")
 
