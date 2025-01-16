@@ -36,9 +36,9 @@ Finally we have added a photoresistor, which is a type of resistor whose resista
 
 
 The board is a 2-layer design. On the top you can see the 3.3V regulator and the Micro-USB type B connector.
-In the middle of the board you'll find the flash memory and the RP2040 microcontroller.
-At the bottom of the board you'll find the 2-pin USB boot connector and the 12Mhz quartz crystal.
-A ground plane has been created on the TOP layer to connect all the GNDs together.
+In the middle of the board you'll find the ESP32 microcontroller and its wifi antenna.
+At the right side of the board you will find the DHT11 sensor at the top, DS1307 module at the middle and at the bottom a MicroSD card.
+A ground plane has been created on the TOP layer to connect all the GNDs together with a ground plane. This ground plane is around the wifi antenna but not to close to it.
 
 Here are the 3d and top layer views of the PCB:
 
